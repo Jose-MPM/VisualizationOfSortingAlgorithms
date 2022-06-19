@@ -32,9 +32,6 @@ $ java sort.Main <resource file> <speed> <algorithm>
     $  java sort.Main imagen3 100 merge
     $  java sort.Main imagen4 100 quick
     ```
-
-
-## Running the program from the terminal ⌨️
 ---
 ⌨️ con ❤️ por [Jose-MPM](https://github.com/Jose-MPM) 😊🔧
 
