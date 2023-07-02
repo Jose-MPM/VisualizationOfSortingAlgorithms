@@ -52,11 +52,11 @@ make run p1=imagen3 p2=framerate p3=algoritmo
 
 - Images of the example:
 
-| ![](src/image-begin.png) |
+| ![](src/resource/image-begin.png) |
 |:---------------------------:|
 | Before ordering |
 
-| ![](img/image-result.png) |
+| ![](img/resource/image-result.png) |
 |:---------------------------:|
 | After ordering |
 
