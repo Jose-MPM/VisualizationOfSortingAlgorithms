@@ -32,6 +32,33 @@ $ java sort.Main <resource file> <speed> <algorithm>
     $  java sort.Main imagen3 100 merge
     $  java sort.Main imagen4 100 quick
     ```
+
+
+## Running the program using make ⌨️
+
+-  To execute the example: Which generates a window with image1, framerate 30 and using bubble sort.
+
+```
+make
+```
+
+-  to execute with parameters:
+    - example: make run p1=imagen2 p2=100 p3=bubble
+    - example: make run p1=imagen3 p2=200 p3=merge
+
+```
+make run p1=imagen3 p2=framerate p3=algoritmo
+```
+
+- Images of the example:
+
+| ![](src/image-begin.png) |
+|:---------------------------:|
+| Before ordering |
+
+| ![](img/image-result.png) |
+|:---------------------------:|
+| After ordering |
+
 ---
 ⌨️ con ❤️ por [Jose-MPM](https://github.com/Jose-MPM) 😊🔧
-
