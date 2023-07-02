@@ -56,7 +56,7 @@ make run p1=imagen3 p2=framerate p3=algoritmo
 |:---------------------------:|
 | Before ordering |
 
-| ![](img/resource/image-result.png) |
+| ![](src/resource/image-result.png) |
 |:---------------------------:|
 | After ordering |
 
